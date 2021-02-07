@@ -1,0 +1,24 @@
+header{
+    text-align: center;
+    font-size: 1.5rem;
+    width:1200px;
+    margin: 0 auto;
+    padding-top: 1px;
+}
+
+body
+{
+    background-color:lightgray;
+    width: 100%;
+    margin: 0 auto;
+    font-family: verdana;
+}
+
+#gameScreen{
+    background-color:lightblue;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+    cursor: url(assets/images/cursor.png) 22 22, auto;
+    text-align: center;
+}
